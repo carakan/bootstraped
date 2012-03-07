@@ -1,4 +1,10 @@
 Nuki::Application.routes.draw do
+  get "home/column"
+
+  get "home/column2"
+
+  get "home/column3"
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
