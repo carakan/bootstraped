@@ -1,0 +1,12 @@
+
+$gridColumns:       8;
+$gridColumnWidth:   128px;
+$gridGutterWidth:   0px;
+//$extraSpace:        ($gridGutterWidth * 2); // For our grid calculations
+//$siteWidth:         ($gridColumns * $gridColumnWidth) + ($gridGutterWidth * ($gridColumns - 1));
+
+// import original bootstrap
+@import "bootstrap";
+//@import "responsive";
+
+
